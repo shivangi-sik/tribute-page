@@ -1,0 +1,42 @@
+#main{
+    background-color:rgb(238, 241, 238)
+  }
+  #image{
+    height:auto;
+    display:block;
+    max-width:100%;
+   margin: 2em auto;
+  }
+  h1{
+    padding:1rem 0;
+  }
+  h1, h3{
+    text-align:center;
+  
+  }
+  div{
+    background-color:black;
+    color:white;
+    padding:0.1em 1em;
+    max-width:900px;
+    margin:auto;
+  }
+  section{
+    max-width:600px;
+    margin:auto;
+  }
+  #img-caption{
+    padding-bottom:1em
+  }
+  p{
+    font-style:italic;
+    margin-left:3em;
+  }
+  li{
+    padding:0.5em;
+  }
+  #tribute-link{
+    text-decoration:none;
+    font-style:italic;
+    color:black;
+  }
